@@ -1,0 +1,6 @@
+[submodule "renderer-rs"]
+	path = renderer-rs
+	url = git@github.com/LukeMiles49/renderer-rs.git
+[submodule "search-rs"]
+	path = search-rs
+	url = git@github.com/LukeMiles49/search-rs.git
